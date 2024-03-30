@@ -1,4 +1,4 @@
-<!-- <img src="https://github.com/Surafels/recipe-app/blob/dev/app/assets/images/recipe%20img.JPG" alt="Recipe app Screenshot"> -->
+<!-- <img src="https://github.com/Surafels/recipe-app/blob/raw/app/assets/images/recipe%20img.JPG" alt="Recipe app Screenshot"> -->
 
 # Recipe App
 
